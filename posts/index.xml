@@ -6,10 +6,19 @@
     <description>Recent content in Posts on hello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Sun, 21 Jun 2020 23:09:23 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2020 08:05:19 +0800</lastBuildDate>
     
 	<atom:link href="https://pcnum1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>第二篇博客</title>
+      <link>https://pcnum1.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Mon, 22 Jun 2020 08:05:19 +0800</pubDate>
+      
+      <guid>https://pcnum1.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>第二篇开始 掌握git就仿佛掌握了全世界，哈哈哈哈 继续学习配置域名</description>
+    </item>
     
     <item>
       <title>第一个博客</title>
